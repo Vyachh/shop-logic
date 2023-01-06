@@ -1,0 +1,35 @@
+D:\Проект по проге\Магазин\bin\Debug\Магазин.exe.config
+D:\Проект по проге\Магазин\bin\Debug\Магазин.exe
+D:\Проект по проге\Магазин\bin\Debug\Магазин.pdb
+D:\Проект по проге\Магазин\obj\Debug\Магазин.csproj.AssemblyReference.cache
+D:\Проект по проге\Магазин\obj\Debug\Магазин.Form1.resources
+D:\Проект по проге\Магазин\obj\Debug\Магазин.Properties.Resources.resources
+D:\Проект по проге\Магазин\obj\Debug\Магазин.csproj.GenerateResource.cache
+D:\Проект по проге\Магазин\obj\Debug\Магазин.csproj.CoreCompileInputs.cache
+D:\Проект по проге\Магазин\obj\Debug\Магазин.exe
+D:\Проект по проге\Магазин\obj\Debug\Магазин.pdb
+D:\Проект по проге\Магазин\obj\Debug\Магазин.Form2.resources
+D:\Проект по проге\Магазин\obj\Debug\Магазин.csproj.SuggestedBindingRedirects.cache
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\bin\Debug\Магазин.exe.config
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\bin\Debug\Магазин.exe
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\bin\Debug\Магазин.pdb
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\obj\Debug\Магазин.csproj.AssemblyReference.cache
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\obj\Debug\Магазин.Form1.resources
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\obj\Debug\Магазин.Form2.resources
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\obj\Debug\Магазин.Properties.Resources.resources
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\obj\Debug\Магазин.csproj.GenerateResource.cache
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\obj\Debug\Магазин.csproj.CoreCompileInputs.cache
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\obj\Debug\Магазин.exe
+C:\Users\paco\OneDrive\Desktop\Проект по проге\Магазин\obj\Debug\Магазин.pdb
+D:\Проект по проге с количеством\Магазин\bin\Debug\Магазин.exe.config
+D:\Проект по проге с количеством\Магазин\bin\Debug\Магазин.exe
+D:\Проект по проге с количеством\Магазин\bin\Debug\Магазин.pdb
+D:\Проект по проге с количеством\Магазин\obj\Debug\Магазин.csproj.AssemblyReference.cache
+D:\Проект по проге с количеством\Магазин\obj\Debug\Магазин.csproj.SuggestedBindingRedirects.cache
+D:\Проект по проге с количеством\Магазин\obj\Debug\Магазин.Form1.resources
+D:\Проект по проге с количеством\Магазин\obj\Debug\Магазин.Form2.resources
+D:\Проект по проге с количеством\Магазин\obj\Debug\Магазин.Properties.Resources.resources
+D:\Проект по проге с количеством\Магазин\obj\Debug\Магазин.csproj.GenerateResource.cache
+D:\Проект по проге с количеством\Магазин\obj\Debug\Магазин.csproj.CoreCompileInputs.cache
+D:\Проект по проге с количеством\Магазин\obj\Debug\Магазин.exe
+D:\Проект по проге с количеством\Магазин\obj\Debug\Магазин.pdb
